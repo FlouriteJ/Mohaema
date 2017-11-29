@@ -1,0 +1,13 @@
+This is the final version of our team project.
+=====================================================================
+/programm/project.py   main programm (note: cannot run without PyQt4)
+/data                  all the work aimed at G20 corpus
+/lex                   lex-building
+/report                project report
+
+/data/segtest.txt      testing-corpus mentioned in report
+/data/G20_3.txt        corpus from G20
+
+Contact:zhangyinqing@sjtu.edu.cn
+Zhang Yinqing
+2017/01/10
