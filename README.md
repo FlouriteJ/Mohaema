@@ -1,13 +1,13 @@
 # Mohaema 中文分词系统
 
-#介绍#
+## 介绍
 这是基于字典和原则的中文分词项目，可以支持快速且准确的中文分词，同时可以根据新文本和旧字典生成新字典，也通过PyQt支持UI界面显示。
 
 详细介绍和算法可在report/下找到。
 
-#使用方法#
+## 使用方法
 
-###Python程序内部调用
+### Python程序内部调用
 
 ```
 from moha import segment
@@ -17,7 +17,7 @@ segment("艺术是什么")
 
 ```
 
-###命令行调用
+### 命令行调用
 
 ```
 python moha.py "伙伴精神是二十国集团最宝贵的财富"
@@ -27,7 +27,7 @@ python moha.py [infile] [outfile]
 # 可以在outfile文件下写入对infile的分词结果
 ```
 
-#曾经的README#
+## 曾经的README
 
 This is the final version of our team project.
 
