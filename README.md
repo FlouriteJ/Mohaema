@@ -1,7 +1,7 @@
 # Mohaema 中文分词系统
 
 ## 介绍
-这是基于字典和原则的中文分词项目，可以支持快速且准确的中文分词，同时可以根据新文本和旧字典生成新字典，也通过PyQt支持UI界面显示。
+这是基于字典和规则的中文分词项目，可以支持快速且准确的中文分词，同时可以根据新文本和旧字典生成新字典，也通过PyQt支持UI界面显示。
 
 详细介绍和算法可在report/下找到。
 
@@ -26,24 +26,19 @@ python moha.py "伙伴精神是二十国集团最宝贵的财富"
 python moha.py [infile] [outfile]
 # 可以在outfile文件下写入对infile的分词结果
 ```
-
-## 曾经的README
-
-This is the final version of our team project.
-
-
 ----------
 
 
 /programm/project.py   main programm (note: cannot run without PyQt4)
+
 /data                  all the work aimed at G20 corpus
+
 /lex                   lex-building
+
 /report                project report
 
 /data/segtest.txt      testing-corpus mentioned in report
+
 /data/G20_3.txt        corpus from G20
 
-Contact: zhangyinqing@sjtu.edu.cn
-Zhang Yinqing
 2017/01/10
-
