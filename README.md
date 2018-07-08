@@ -26,8 +26,9 @@ python moha.py "伙伴精神是二十国集团最宝贵的财富"
 python moha.py [infile] [outfile]
 # 可以在outfile文件下写入对infile的分词结果
 ```
-----------
+### Contents
 
+Path | Content
 ------------ | -------------
 /programm/project.py | main programm (note: cannot run without PyQt4)
 
