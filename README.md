@@ -31,7 +31,6 @@ python moha.py [infile] [outfile]
 Path | Content
 ------------ | -------------
 /programm/project.py | main programm (note: cannot run without PyQt4)
-
 /data | all the work aimed at G20 corpus
 /lex | lex-building
 /report | project report
