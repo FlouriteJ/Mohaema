@@ -26,7 +26,19 @@ python moha.py "伙伴精神是二十国集团最宝贵的财富"
 python moha.py [infile] [outfile]
 # 可以在outfile文件下写入对infile的分词结果
 ```
-### Contents
+## 详细介绍
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0001.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0002.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0003.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0004.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0005.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0006.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0007.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0008.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0009.jpg)
+![image](https://github.com/FlouriteJ/Mohaema/blob/master/0010.jpg)
+
+## Contents
 
 Path | Content
 ------------ | -------------
