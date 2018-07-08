@@ -28,17 +28,13 @@ python moha.py [infile] [outfile]
 ```
 ----------
 
+------------ | -------------
+/programm/project.py | main programm (note: cannot run without PyQt4)
 
-/programm/project.py   main programm (note: cannot run without PyQt4)
-
-/data                  all the work aimed at G20 corpus
-
-/lex                   lex-building
-
-/report                project report
-
-/data/segtest.txt      testing-corpus mentioned in report
-
-/data/G20_3.txt        corpus from G20
+/data | all the work aimed at G20 corpus
+/lex | lex-building
+/report | project report
+/data/segtest.txt | testing-corpus mentioned in report
+/data/G20_3.txt | corpus from G20
 
 2017/01/10
